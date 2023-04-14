@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibtehaz
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Blockchain Technology, Web 3.0 and DApp
+- 🌱 I’m currently studyting for my Masters in University of Wollongong
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/ibtehazc/) or email me at ibtehaz.chowdhury@gmail.com
 - 📔 You may visit my [portfolio](https://portfolio-website-dcg.pages.dev/) or check my projects here on Github
 
