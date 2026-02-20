@@ -1,8 +1,17 @@
 # Hey, I'm Ibtehaz 👋
 
-**Full Stack Developer · Cloud Engineer · Automation Enthusiast**
+**Full Stack Developer · Cloud Engineer · AI Orchestration Enthusiast**
 
-Based in Australia, originally from Bangladesh. I build things across the stack and occasionally lose MMR in DOTA 2.
+Based in Australia, originally from Bangladesh. I build across the stack and I'm currently running towards AI orchestration and automation — designing intelligent workflows that connect LLMs, APIs, and real-world business logic. Also a DOTA 2 player with more hours than I'd like to admit.
+
+---
+
+## 🧭 Where I'm Headed
+
+- Building AI-powered automation workflows with **n8n**, **LangChain**, and LLM APIs
+- Designing self-hosted, enterprise-grade AI agent systems
+- Exploring the intersection of full-stack development and AI orchestration
+- Open to **Senior Dev / AI Engineering / Cloud Engineering** roles
 
 ---
 
@@ -29,13 +38,11 @@ Based in Australia, originally from Bangladesh. I build things across the stack 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**AI & Automation:**
 
-## 🔭 What I'm Working On
-
-- Building AI-powered apps and automation workflows
-- Exploring n8n orchestration and LLM integrations
-- Looking for **Senior Dev / AI-ML / Cloud Engineering** roles
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -49,9 +56,8 @@ Based in Australia, originally from Bangladesh. I build things across the stack 
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibtehaz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibtehazc)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtehaz.chowdhury@gmail.com)
 
 ---
 
